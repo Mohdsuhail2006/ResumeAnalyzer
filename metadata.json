@@ -1,0 +1,6 @@
+{
+  "name": "CareerMatch AI — Intelligent Resume Analyzer & Job Matcher",
+  "description": "Intelligent Resume Analyzer & Job Matcher with explainable deterministic scoring, NLP skill extraction, skill gap analysis, and Gemini AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
